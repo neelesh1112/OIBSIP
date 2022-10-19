@@ -360,7 +360,8 @@ h3.my-profession{
 }
 .social{
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 30px;
+    margin-bottom: 100px;
 }
 .home .social-media-item {
     flex: 0 0 4%;
