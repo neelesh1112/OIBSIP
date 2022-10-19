@@ -43,7 +43,7 @@ ul{
     display: block;
     padding: 0 30px;
     opacity: 1;
-    /* position: fixed; */
+    position: fixed; 
     left: 0;
     top: 82px;
     bottom: 0;
